@@ -1,0 +1,6 @@
+**/*.sif
+**/*.swp
+salmon_demo_work/*
+**/*.gz
+**/*.fastq
+*.sif

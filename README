@@ -1,0 +1,3 @@
+Try "python3 run_workflow.py salmon_demo" to run salmon_demo workflow with singularity containers
+
+Current issues is that sudo is required to get around singularity permissions stuff. (This is easily fixable, but I haven't gotten around to it yet.) Also, salmon index building sometimes SEGFAULTs when run from python. I need to look into this more. Finally, gnumeric doesn't work; needs some sort of connection to server, which I don't understand. Possibly related to virtual desktop?
